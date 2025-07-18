@@ -1,1 +1,17 @@
-# korablya.io
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Страница с картинкой</title>
+</head>
+<body>
+    <!-- Заголовок -->
+    <h1>Моя первая страница с картинкой</h1>
+    
+    <!-- Изображение -->
+    <img src="/https://github.com/SinicinDenis/korablya.io/blob/main/cvd_stick_86-1200x800.png" alt="Описание картинки" width="500" height="300">
+    
+    <!-- Подпись к изображению -->
+    <p>Это моя любимая картинка!</p>
+</body>
+</html>
